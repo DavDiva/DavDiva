@@ -1,8 +1,10 @@
 ### Hi there 👋
-### I am young and motivated person that actively learning C/C++ and step by step prepares for the carreer of C/C++ Developer. 
-### Currently I am learning myself but already looking for project to join to make my progress faster.
-### I am interested in automotive software development, but any other C++ will be also very interesting.
+### I am young and motivated person that is actively learning 🌱 C/C++ 🔥 and step by step preparing for the carreer of C/C++ Developer. 
+### Currently I am learning myself :bowtie: but already looking for project to join to make my progress faster :zap:.
+### I am interested in automotive :car: software development, but any other C++ project will be also very interesting.
 ### I spend every day for 7-8 hours for learning and for coding, so I hope to get first internship very soon.
+### 📫 How to reach me: please contact me via email ivanchevska.diana@gmail.com if you have suitable vacancy opennings or would like to help me as a mentor.
+### 
 
 <!--
 **DavDiva/DavDiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
