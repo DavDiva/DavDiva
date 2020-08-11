@@ -1,5 +1,8 @@
 ### Hi there 👋
-### I am young and motivated person that actively learning C/C++ and step by step prepare for the carreer of C/C++ Developer. 
+### I am young and motivated person that actively learning C/C++ and step by step prepares for the carreer of C/C++ Developer. 
+### Currently I am learning myself but already looking for project to join to make my progress faster.
+### I am interested in automotive software development, but any other C++ will be also very interesting.
+### I spend every day for 7-8 hours for learning and for coding, so I hope to get first internship very soon.
 
 <!--
 **DavDiva/DavDiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
