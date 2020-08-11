@@ -1,4 +1,5 @@
 ### Hi there 👋
+### I am young and motivated person that actively learning C/C++ and step by step prepare for the carreer of C/C++ Developer. 
 
 <!--
 **DavDiva/DavDiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
