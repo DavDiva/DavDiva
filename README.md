@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I am a Master student in Computer Systems Software Engineering at National Technical University of Ukraine "Kyiv Polytechnic Institute".
+### I am a Master student in Computer Systems Software Engineering at National Technical University of Ukraine “Igor Sikorsky Kyiv Polytechnic Institute”.
 ### I am young and motivated person who is actively learning 🌱 C/C++ 🔥 and step by step preparing for the carreer of C/C++ Developer. 
 ### Currently I am looking for a project to join to make my progress faster :zap: and to start my carreer.
 
