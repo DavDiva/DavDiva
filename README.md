@@ -1,10 +1,6 @@
 ### Hi there 👋
 ### I am a Master student in Computer Systems Software Engineering at National Technical University of Ukraine “Igor Sikorsky Kyiv Polytechnic Institute”.
-### I am young and motivated person who is actively learning 🌱 C/C++ 🔥 and step by step preparing for the carreer of C/C++ Developer. 
-### Currently I am looking for a project to join to make my progress faster :zap: and to start my carreer.
-
-### 📫 How to reach me: please contact me via email ivanchevska.diana@gmail.com if you have suitable vacancy opennings or would like to help me as a mentor.
-### 
+### Currently I work as C++ Software Developer mostly in Kernel Driver Development in Windows.
 
 <!--
 **DavDiva/DavDiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
