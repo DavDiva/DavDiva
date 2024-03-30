@@ -1,6 +1,6 @@
 ### Hi there 👋
-### I am a Master student in Computer Systems Software Engineering at National Technical University of Ukraine “Igor Sikorsky Kyiv Polytechnic Institute”.
-### Currently I work as C++ Software Developer mostly in Kernel Driver Development in Windows.
+### I am Master in Computer Systems Software Engineering at National Technical University of Ukraine “Igor Sikorsky Kyiv Polytechnic Institute”.
+### Currently I work as C/C++ Software Developer mostly in Kernel Driver Development in Windows.
 
 <!--
 **DavDiva/DavDiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
